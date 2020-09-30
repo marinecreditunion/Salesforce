@@ -1,0 +1,5 @@
+  Username : "api.integration@marinecu.com.stage"
+  Pasword : "sfC()nnect!ons360"
+  PEToken : "O08Hmqpr2qc5r6fZtG7d343PI"
+  streamingChannel : "/event/NewAccountToCore__e"
+  sfdcAutUrl : https://test.salesforce.com/services/Soap/u/46.0
